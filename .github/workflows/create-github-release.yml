@@ -15,7 +15,7 @@ on:
 
 jobs:
   release:
-    uses: salesforcecli/github-workflows/.github/workflows/create-github-release.yml@main
+    uses: salesforcecli/github-workflows/.github/workflows/create-github-release.yml@ew/external-friendly
     secrets:
       SVC_CLI_BOT_GITHUB_TOKEN: ${{ secrets.SF_CLI_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
     with:

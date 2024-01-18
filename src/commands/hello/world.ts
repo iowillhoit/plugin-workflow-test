@@ -14,6 +14,8 @@ export default class World extends SfCommand<HelloWorldResult> {
   public static readonly description = messages.getMessage('description');
   public static readonly examples = messages.getMessages('examples');
 
+  // Foo1
+
   public static readonly flags = {
     name: Flags.string({
       char: 'n',

@@ -2,7 +2,7 @@
 
 [![NPM](https://img.shields.io/npm/v/plugin-workflow-test.svg?label=plugin-workflow-test)](https://www.npmjs.com/package/plugin-workflow-test) [![Downloads/week](https://img.shields.io/npm/dw/plugin-workflow-test.svg)](https://npmjs.org/package/plugin-workflow-test) [![License](https://img.shields.io/badge/License-BSD%203--Clause-brightgreen.svg)](https://raw.githubusercontent.com/salesforcecli/plugin-workflow-test/main/LICENSE.txt)
 
-### Foo 2
+### Foo 3
 
 ## Using the template
 
